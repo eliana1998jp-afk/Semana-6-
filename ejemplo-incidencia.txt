@@ -1,0 +1,4 @@
+{
+  "tipo": "Medio ambiente",
+  "descripcion": "La comunidad reporta la tala de varios árboles cerca de una fuente hídrica y solicita una inspección ambiental."
+}
